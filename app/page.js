@@ -529,7 +529,7 @@ export default function Home() {
       <header>
         <a className="brand" href="#gallery" aria-label="ERAZ, inicio">
           <span className="brandmark">E</span>
-          <span>
+          <span className="brand-text">
             <span className="brand-name">ERAZ</span>
             <span className="brand-caption">estudio creativo</span>
           </span>
